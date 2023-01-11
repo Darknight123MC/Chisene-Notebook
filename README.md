@@ -1,6 +1,6 @@
 # Chinise Notebook
 
-## Subject
+## 主語
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -18,7 +18,7 @@
 |-|-|-|-|
 |zì jǐ|自己|myself|自分自身|
 
-## Pronoun
+## 代名詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -31,7 +31,7 @@
 |-|-|-|-|
 |zhè me|这么|like this|このように|
 
-## Noun
+## 名詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -44,12 +44,10 @@
 |guì xìng|贵姓|last name|名字|
 |jiā|家|family|家族|
 |jiā|家|home|家|
-|jīn|今|now|今|
 |lǎo shī|老师|teacher|先生|
 |mì mi|秘密|secret|秘密|
 |nián jí|年级|grade|学年|
 |nián jì|年纪|years-old|~歳 (年上)|
-|nián|年|year|年|
 |péng yǒu|朋友|friend|友達|
 |rén|人|people|人|
 |rì běn|日本|Japan|日本|
@@ -57,6 +55,14 @@
 |xué shēng|学生|studnet|学生|
 |zhí yuán|职员|staff|社員|
 |zhōng/zhòng guó|中国|Chinese|中国|
+|-|-|-|-|-|
+|hào|号|day|日|
+|jīn|今|now|今|
+|nián|年|year|年|
+|shí hòu|时候|time|時間|
+|xiàn zài|现在|now|今|
+|xīng qī tiān|星期天|Sunday|日曜日|
+|xīng qī|星期|day of week|曜日|
 |-|-|-|-|-|
 |fù qīn|父亲|father|父親|
 |mǔ qīn|母亲|mother|母親|
@@ -67,7 +73,7 @@
 |dì di|弟弟|younger brother|弟|
 |mèi mèi|妹妹|younger sister|妹|
 
-## Question Word
+## 疑問詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -83,9 +89,10 @@
 |-|-|-|-|-|
 |-|-|-|-|-|
 |jǐ|几|how many|いくつ/いくつの|
+|zěn me yàng|怎么样|how about|~はどうですか|
 |zěn me|怎么|how to|どうやって|
 
-## Adverb
+## 副詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -97,41 +104,61 @@
 |nà|那|then|それなら|
 |qí shí|其实|actually|実際に|
 |yě|也|副詞|also|~も|
+|yī qǐ|一起|together|~と一緒に|
 |yǒu shí hòu|有时候|sometimes|時々|
 |zhēn de|真的|really|本当に|
 
-## Verb
+## 助動詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
+|xiǎng|想|want to|~したい|
+
+## 動詞
+
+|拼音|単語|English|日本語|
+|:--|:--|:--|:--|
+|bāng|帮|help|~を助ける|
 |chī|吃|eat|食べる|
 |huān yíng|欢迎|welcome|歓迎する|
 |jiào|叫|call|~と呼ぶ|
 |jìn|进|come in|入る|
 |kāi shǐ|开始|start|始める|
 |kàn/kān|看|see|見る|
+|lái|来|come|来る|
 |qǐng|请|please|どうぞ|
+|qù|去|go|行く|
 |shì|是|be|~である|
 |xǐ huān|喜欢|like|~を好む|
+|xiàng|照|take a photo|~を撮る|
+|xiào|笑|laugh|笑う|
 |xiè xiè|谢谢|thank|ありがとう|
 |xìng|姓|name|~を名づける|
 |yǒu|有|have|~を持っている|
+|zhào xiàng|照相|take a photo|~を撮る|
 |zuò|坐|sit down|座る|
 |zuò|做|do|~をする|
 |zuò|做|make|~を作る|
 
-## Adjective
+## 形容詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
 |dà|大|big|大きな|
+|duì|对|right|正しい|
 |duō|多|many|多い|
 |hǎo/hào chī|好吃|delicious|美味しい|
 |hǎo/hào|好|good|良い|
 |xī|西|western|洋風な|
 |xīn|新|new|新しい|
 
-## Particle
+## 前置詞
+
+|拼音|単語|English|日本語|
+|:--|:--|:--|:--|
+|gěi|给|to|~に対して|
+
+## 助詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -142,13 +169,13 @@
 |ne|呢|-|~もですか?|
 |ya|呀|-|-|
 
-## Conjuction
+## 接続詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
 |hái shì|还是|or|~または...|
 
-## Number
+## 数字
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
@@ -165,14 +192,14 @@
 |jiǔ|九|nine|九|
 |shí|十|ten|十|
 
-## Measure Word
+## 数詞
 
 |拼音|単語|日本語|
 |:--|:--|:--|
 |ge|个|~個|
 |kǒu|口|~人|
 
-## Exclamation
+## 感嘆詞
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
