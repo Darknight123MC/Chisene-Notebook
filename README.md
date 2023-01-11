@@ -31,6 +31,25 @@
 |-|-|-|-|
 |zhè me|这么|like this|このように|
 
+## 疑問詞
+
+|拼音|単語|English|日本語|
+|:--|:--|:--|:--|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|shéi/shuí|谁|who|だれ|
+|-|-|-|-|-|
+|shén me|什么|what|なに/何の|
+|-|-|-|-|-|
+|nǎ ge|哪|which|どれ/どの|
+|nǎ|哪个|which|どれ/どの|
+|něi ge|哪个|which|どれ/どの|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|jǐ|几|how many|いくつ/いくつの|
+|zěn me yàng|怎么样|how about|~はどうですか|
+|zěn me|怎么|how to|どうやって|
+
 ## 名詞
 
 |拼音|単語|English|日本語|
@@ -56,13 +75,13 @@
 |zhí yuán|职员|staff|社員|
 |zhōng/zhòng guó|中国|Chinese|中国|
 |-|-|-|-|-|
-|hào|号|day|日|
-|jīn|今|now|今|
-|nián|年|year|年|
 |shí hòu|时候|time|時間|
-|xiàn zài|现在|now|今|
-|xīng qī tiān|星期天|Sunday|日曜日|
+|nián|年|year|年|
+|hào|号|day|日|
 |xīng qī|星期|day of week|曜日|
+|xīng qī tiān|星期天|Sunday|日曜日|
+|jīn|今|now|今|
+|xiàn zài|现在|now|今|
 |-|-|-|-|-|
 |fù qīn|父亲|father|父親|
 |mǔ qīn|母亲|mother|母親|
@@ -72,25 +91,6 @@
 |jiě jie|姐姐|older sister|姉|
 |dì di|弟弟|younger brother|弟|
 |mèi mèi|妹妹|younger sister|妹|
-
-## 疑問詞
-
-|拼音|単語|English|日本語|
-|:--|:--|:--|:--|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|shéi/shuí|谁|who|だれ|
-|-|-|-|-|-|
-|shén me|什么|what|なに/何の|
-|-|-|-|-|-|
-|nǎ ge|哪|which|どれ/どの|
-|nǎ|哪个|which|どれ/どの|
-|něi ge|哪个|which|どれ/どの|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|jǐ|几|how many|いくつ/いくつの|
-|zěn me yàng|怎么样|how about|~はどうですか|
-|zěn me|怎么|how to|どうやって|
 
 ## 副詞
 
@@ -144,12 +144,12 @@
 
 |拼音|単語|English|日本語|
 |:--|:--|:--|:--|
-|dà|大|big|大きな|
+|dà|大|big|大きい|
 |duì|对|right|正しい|
 |duō|多|many|多い|
 |hǎo/hào chī|好吃|delicious|美味しい|
 |hǎo/hào|好|good|良い|
-|xī|西|western|洋風な|
+|xī|西|western|洋風の|
 |xīn|新|new|新しい|
 
 ## 前置詞
